@@ -18,7 +18,7 @@
                 <div class="menu">
                     <ul class="header-list">
                         <li>
-                            <a class="nav-link" href="https://www.reinerlive.ru/?page_id=947">Нооoвости</a>
+                            <a class="nav-link" href="https://www.reinerlive.ru/?page_id=947">Новости</a>
                         </li>
                         <li>
                             <a class="nav-link" href="https://www.reinerlive.ru/?page_id=949">Статьи</a>
